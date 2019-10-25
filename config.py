@@ -1,0 +1,3 @@
+
+url_mensagem = 'https://web.whatsapp.com/send?phone={}&text={}'
+mensagem_com_contrato = 'Olá {}! essa é uma mensagem automática, em nosso sistema consta que você não renovou seu contrato de {} faz um tempo e nós gostariamos de saber o por que não volta conosco ou o motivo de sua saída. Temos promoções na hidroginástica e horários disponíveis para natação/pilates, ligue para mais informações! Agradecemos a sua atenção, obrigado!'
